@@ -14,3 +14,4 @@ GAN 的进展，有趣应用，文档
 11. [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)超分辨率。
 12. [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization)卡通化。
 13. [style2paints](https://github.com/lllyasviel/style2paints)线稿上色。
+14. [AnimeGANv2](https://tachibanayoshino.github.io/AnimeGANv2/)动漫化。
