@@ -1,5 +1,5 @@
 # GanGG
-GAN 的进展，有趣应用，文档
+GAN 的进展，有趣应用，文档。
 
 1. [DeepSIM](https://github.com/eliahuhorwitz/DeepSIM) 带控制的目标映射。
 2. [crypko](https://crypko.ai/)插画制作。
@@ -15,3 +15,7 @@ GAN 的进展，有趣应用，文档
 12. [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization)卡通化。
 13. [style2paints](https://github.com/lllyasviel/style2paints)线稿上色。
 14. [AnimeGANv2](https://tachibanayoshino.github.io/AnimeGANv2/)动漫化。
+15. [VGPNN](https://nivha.github.io/vgpnn/)视频生成。
+16. [PIFuHD](https://shunsukesaito.github.io/PIFuHD/)单人图转3D模型。
+17. [GANgealing](https://www.wpeebles.com/gangealing)类似增加特效。
+18. [](https://saic-mdal.github.io/lama-project/)P图。
