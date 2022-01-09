@@ -18,4 +18,4 @@ GAN 的进展，有趣应用，文档。
 15. [VGPNN](https://nivha.github.io/vgpnn/)视频生成。
 16. [PIFuHD](https://shunsukesaito.github.io/PIFuHD/)单人图转3D模型。
 17. [GANgealing](https://www.wpeebles.com/gangealing)类似增加特效。
-18. [](https://saic-mdal.github.io/lama-project/)P图。
+18. [lama](https://saic-mdal.github.io/lama-project/)P图。
